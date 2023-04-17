@@ -1,4 +1,4 @@
-package com.xingchi.common.unique;
+package com.xingchi.basic;
 
 import lombok.Data;
 

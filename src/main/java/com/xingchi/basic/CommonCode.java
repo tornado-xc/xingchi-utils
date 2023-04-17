@@ -1,4 +1,4 @@
-package com.xingchi.common.unique;
+package com.xingchi.basic;
 
 /**
  * 通用状态码 返回 10000-20000 通用状态码
